@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Admin.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/AddCourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/CancelCourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/ChoiseCourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Frame_index.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/OutCourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/PrintCourse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Teacher.java" charset="GBK" />
+  </component>
+</project>
